@@ -9,7 +9,7 @@ This portfolio showcases my work in **full-stack development, AI-powered systems
 ## 🚀 Live Demo
 
 🌐 Portfolio: *(Add your deployed link here)*
-💻 GitHub Repository: *(Add repo link here)*
+💻 GitHub Repository: https://github.com/Debatreya-sengupta/PortFolio
 
 ---
 
