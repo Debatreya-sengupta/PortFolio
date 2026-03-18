@@ -8,7 +8,7 @@ This portfolio showcases my work in **full-stack development, AI-powered systems
 
 ## 🚀 Live Demo
 
-🌐 Portfolio: *(Add your deployed link here)*
+🌐 Portfolio: https://port-folio-pi-bice.vercel.app/
 💻 GitHub Repository: https://github.com/Debatreya-sengupta/PortFolio
 
 ---
