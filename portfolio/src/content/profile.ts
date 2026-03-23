@@ -45,6 +45,16 @@ My interests include:
         demo: 'https://example.com',
       },
     },
+    {
+      title: 'EchoSense',
+      stack: ['Next.js', 'Python', 'FastAPI', 'DSP', 'iTunes API', 'Shazam API'],
+      description:
+        'A production-ready music discovery tool that solves the "unknown song" problem through intelligent fallback logic. Combines third-party APIs with custom digital signal processing (DSP) to name songs and analyze acoustic characteristics for similar track suggestions. Optimized for the cloud with async worker patterns for cold-start and large audio buffer efficiency.',
+      links: {
+        github: 'https://github.com/Debatreya-sengupta/Shazam_clone',
+        demo: 'https://echosense.vercel.app/',
+      },
+    },
   ],
   education: {
     title: 'Bachelor of Technology (CSBS)',

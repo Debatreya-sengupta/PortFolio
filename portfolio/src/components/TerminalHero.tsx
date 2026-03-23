@@ -74,8 +74,8 @@ export function TerminalHero() {
         <div className="grid items-center gap-10 lg:grid-cols-[1.12fr_0.88fr]">
           <motion.div
             className="glass relative rounded-2xl p-5 sm:p-7"
-            initial={{ opacity: 0, y: 18, filter: 'blur(6px)' }}
-            animate={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
+            initial={{ opacity: 0, y: 18 }}
+            animate={{ opacity: 1, y: 0 }}
             transition={{ type: 'spring', stiffness: 140, damping: 18 }}
           >
             <div className="mb-4 flex items-center justify-between">
@@ -137,8 +137,8 @@ export function TerminalHero() {
 
           <motion.div
             className="relative"
-            initial={{ opacity: 0, y: 18, filter: 'blur(6px)' }}
-            animate={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
+            initial={{ opacity: 0, y: 18 }}
+            animate={{ opacity: 1, y: 0 }}
             transition={{ type: 'spring', stiffness: 130, damping: 18, delay: 0.05 }}
           >
             <div className="glass rounded-2xl p-6 sm:p-7">

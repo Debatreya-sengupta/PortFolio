@@ -12,8 +12,8 @@ export function Reveal({ children, className, delay = 0, ...rest }: RevealProps)
   return (
     <motion.div
       className={className}
-      initial={{ opacity: 0, y: 18, filter: 'blur(6px)' }}
-      whileInView={{ opacity: 1, y: 0, filter: 'blur(0px)' }}
+      initial={{ opacity: 0, y: 18 }}
+      whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: '-80px' }}
       transition={{ type: 'spring', stiffness: 120, damping: 18, delay }}
       {...rest}
